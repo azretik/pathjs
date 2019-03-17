@@ -1,0 +1,16 @@
+{
+	"name": "pathjs",
+	"version": "0.8.4",
+	"description": "Routing library for 'single page' applications",
+	"main": "./path.js",
+	"directories": {
+		"test": "test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/azretik/pathjs.git"
+	},
+	"author": "Mike Trpcic",
+	"license": "MIT",
+	"readmeFilename": "README.md",
+}
